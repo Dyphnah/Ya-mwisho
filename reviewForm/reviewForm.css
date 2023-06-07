@@ -1,0 +1,93 @@
+div {
+    display: block;
+}
+span{
+    color: #1d4d81;
+}
+h1 {
+font-family: "Poppins", sans-serif;
+font-size: 2rem;
+color: black;
+margin-inline: 20px;
+padding: 10px;
+}
+
+h4{
+    margin-top: 20px;
+}
+
+p {
+ margin: 10px;
+ font-family: sans-serif; 
+ font-size: 1.1rem; 
+ color: black; 
+ padding: 15px;
+ line-height: 1.8;
+}
+
+.reviews-form {
+    padding: 5px;
+    width: 49vw;
+    border-radius: 10px;
+    margin-top: 10px;
+    height: 50px;
+    background-color: whitesmoke;
+    text-align: left;
+  }
+
+  .form-container {
+    padding: 20px;
+    background: #efcfcf;
+    width: 70%;
+    border-radius: 20px;
+    margin: auto;
+  }
+
+.stars {
+    font-size: 26px;
+  }
+  
+  .star {
+    color: gray;
+    cursor: pointer;
+    transition: color 0.2s;
+  }
+  
+  .star:hover,
+  .star.filled {
+    color: yellow;
+  }
+  
+
+.submit-button {
+    border-radius: 8px;
+    padding: 10px 20px;
+    background-color: #1d4d81;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    margin-top: 30px;
+  }
+  
+  .submit-button:hover {
+    background-color: #3a9b56;
+  }
+  .textarea {
+    height: 300px;
+    padding: 5px;
+    width: 50vw;
+    border-radius: 20px;
+    background-color: white;
+    text-align: left;
+}
+
+::placeholder{
+    color: #1d4d81;
+}
+
+
+
+  
+  
+  
